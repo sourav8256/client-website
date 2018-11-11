@@ -1,0 +1,202 @@
+@font-face {
+    font-family: 'icover';
+    src: url('../fonts/icover.eot?u2zxjp');
+    src: url('../fonts/icover.eot?u2zxjp#iefix') format('embedded-opentype'), url('../fonts/icover.ttf?u2zxjp') format('truetype'), url('../fonts/icover.woff?u2zxjp') format('woff'), url('../fonts/icover.svg?u2zxjp#icover') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="ico-"],
+[class*=" ico-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icover' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.ico-flat:before {
+    content: "\e907";
+}
+
+.ico-alu:before {
+    content: "\e900";
+}
+
+.ico-antenna:before {
+    content: "\e901";
+}
+
+.ico-at:before {
+    content: "\e902";
+}
+
+.ico-bb:before {
+    content: "\e903";
+}
+
+.ico-dgs:before {
+    content: "\e904";
+}
+
+.ico-erase:before {
+    content: "\e905";
+}
+
+.ico-factory:before {
+    content: "\e906";
+}
+
+.ico-mmr:before {
+    content: "\e917";
+}
+
+.ico-retailer:before {
+    content: "\e918";
+}
+
+.ico-security:before {
+    content: "\e919";
+}
+
+.ico-telephone:before {
+    content: "\e91a";
+}
+
+.ico-transaction:before {
+    content: "\e91b";
+}
+
+.ico-warehouse:before {
+    content: "\e91c";
+}
+
+.ico-wrench:before {
+    content: "\e91d";
+}
+
+@font-face {
+    font-family: 'ico_featurs';
+    src: url('../fonts/ico_featurs.eot?yy6nyu');
+    src: url('../fonts/ico_featurs.eot?yy6nyu#iefix') format('embedded-opentype'), url('../fonts/ico_featurs.ttf?yy6nyu') format('truetype'), url('../fonts/ico_featurs.woff?yy6nyu') format('woff'), url('../fonts/ico_featurs.svg?yy6nyu#ico_featurs') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icf-"],
+[class*=" icf-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'ico_featurs' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icf-data:before {
+    content: "\e900";
+}
+
+.icf-inventory:before {
+    content: "\e901";
+}
+
+.icf-easy:before {
+    content: "\e902";
+}
+
+.icf-export:before {
+    content: "\e903";
+}
+
+.icf-dashboard:before {
+    content: "\e904";
+}
+
+.icf-custom:before {
+    content: "\e905";
+}
+
+.icf-imei:before {
+    content: "\e906";
+}
+
+.icf-jailbreak:before {
+    content: "\e907";
+}
+
+.icf-noVariance:before {
+    content: "\e908";
+}
+
+.icf-operations:before {
+    content: "\e909";
+}
+
+.icf-print:before {
+    content: "\e90a";
+}
+
+.icf-quick_diagnostic:before {
+    content: "\e90b";
+}
+
+.icf-rebrand:before {
+    content: "\e90c";
+}
+
+.icf-remote:before {
+    content: "\e90d";
+}
+
+.icf-report:before {
+    content: "\e90e";
+}
+
+.icf-result:before {
+    content: "\e90f";
+}
+
+.icf-value:before {
+    content: "\e910";
+}
+
+.icf-workflow:before {
+    content: "\e911";
+}
+
+@font-face {
+    font-family: 'ic_trade';
+    src: url('../fonts/ic_trade.eot?gq65lu');
+    src: url('../fonts/ic_trade.eot?gq65lu#iefix') format('embedded-opentype'), url('../fonts/ic_trade.ttf?gq65lu') format('truetype'), url('../fonts/ic_trade.woff?gq65lu') format('woff'), url('../fonts/ic_trade.svg?gq65lu#ic_trade') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="ic-"],
+[class*=" ic-"] {
+    font-family: 'ic_trade' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.ic-tradeIn:before {
+    content: "\e900";
+}
